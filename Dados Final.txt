@@ -14,7 +14,7 @@ do
 {
        cout << "Digite el numero de dados a utilizar : mODIFICACIÒN POR MAESTRO ";
        cin >> dados;
-       cout << "Digite la cantidad de caras que desea que tenga el o los dados a tirar : ";
+       cout << "Digite la cantidad de caras que desea que tenga el o los dados a tirar por favor cuales son: ";
        cin >> cara;
        cout << endl;
        srand(cara);
