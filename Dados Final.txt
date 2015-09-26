@@ -12,7 +12,7 @@ int n;
  
 do 
 {
-       cout << "Digite el numero de dados a utilizar : ";
+       cout << "Digite el numero de dados a utilizar : mODIFICACIÒN POR MAESTRO ";
        cin >> dados;
        cout << "Digite la cantidad de caras que desea que tenga el o los dados a tirar : ";
        cin >> cara;
